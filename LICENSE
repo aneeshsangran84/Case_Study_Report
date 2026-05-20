@@ -1,0 +1,66 @@
+MIT License
+
+Copyright (c) 2025 — Colonial Pipeline Ransomware Attack Case Study
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+───────────────────────────────────────────────────────────────────────────────
+
+ACADEMIC & RESEARCH DISCLAIMER
+
+This project is an academic case study produced for educational purposes as
+part of a B.Tech CSE (Cybersecurity) program. All analysis, findings, and
+recommendations are based on publicly available information, government
+advisories (CISA AA21-131A), and published cybersecurity research.
+
+  • This report does NOT contain any proprietary, classified, or confidential
+    information belonging to Colonial Pipeline Company or any affiliated entity.
+
+  • All MITRE ATT&CK® technique references are used under fair academic use.
+    MITRE ATT&CK® is a registered trademark of The MITRE Corporation.
+
+  • Chart.js is used under the MIT License.
+    © 2014–2024 Chart.js Contributors.
+
+  • Google Fonts (Bebas Neue, Space Mono, Barlow) are served under the
+    Open Font License (OFL).
+
+  • The technical details of DarkSide ransomware described herein are sourced
+    exclusively from public cybersecurity disclosures. No reverse-engineered
+    malware artifacts, exploits, or offensive tools are included in this
+    repository.
+
+  • Nothing in this report constitutes legal, financial, or operational
+    security advice. Organizations should consult qualified cybersecurity
+    professionals for security assessments.
+
+───────────────────────────────────────────────────────────────────────────────
+
+ATTRIBUTION
+
+If you reference or build upon this case study in academic work, please cite:
+
+  Colonial Pipeline Ransomware Attack (2021) — Case Study Report
+  B.Tech CSE (Cybersecurity Specialization), 6th Semester
+  Subject: Software Security
+  Analysis Frameworks: MITRE ATT&CK® · STRIDE · CIAAA · NIST CSF · IEC 62443
+  Primary Sources: CISA Advisory AA21-131A · FBI Findings · Huntress ·
+                   Nozomi Networks · Cybereason · INSURICA · IEEE Research
+
+───────────────────────────────────────────────────────────────────────────────
